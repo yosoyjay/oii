@@ -1,0 +1,15 @@
+psycopg2
+sqlalchemy
+flask
+werkzeug
+paramiko
+celery
+pika
+scikit-image
+numpy>=1.16
+pandas
+scipy>=1.4
+scikit-learn
+pillow
+requests
+lxml
